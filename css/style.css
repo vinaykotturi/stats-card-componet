@@ -106,7 +106,7 @@ p,a {
 .card__image {
    position: relative;
    background-color: var(--SoftViolet);
-   background-image: url('/images/image-header-desktop.jpg');
+   background-image: url('../images/image-header-desktop.jpg');
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center center;
