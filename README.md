@@ -24,7 +24,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Screenshot
 
-![](./ScreenShot.png)
+[Screenshot](./images/ScreenShot.png)
 
 This is my solution of the screen shot
 
