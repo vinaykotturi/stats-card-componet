@@ -49,11 +49,10 @@ and I used CSS grid system in this project. I have also learned merging backgrou
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Learn Grid](https://courses.wesbos.com/account/access/601d31c32a34157df9ed935f) - This is best website to learn grid system
+- [Learn FlexBox](https://courses.wesbos.com/account/access/5b7c4c2f7ee5263c4c4a511a) - to learn flex box watch this small course 
 
 ## Author
 
-- Website - [vinay](https://www.your-site.com)
-- Frontend Mentor - [@vinaykotturi](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@vinaykotturi](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@vinaykotturi](https://www.frontendmentor.io/profile/vinaykotturi)
+- Twitter - [@vinaykotturi](https://twitter.com/vinaykotturi)
